@@ -1,5 +1,5 @@
 // Guarda la app en caché para que abra sin conexión
-const CACHE = 'carnet-v1';
+const CACHE = 'carnet-v2';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png'];
 
 self.addEventListener('install', (e) => {

@@ -1,1 +1,10 @@
 .claude/
+
+# Imágenes y documentos personales: nunca se suben al repositorio
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+*.pdf
+!icons/*.png
